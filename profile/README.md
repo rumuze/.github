@@ -1,173 +1,52 @@
-# RUMUZE™  
-## Software Engineering & Digital Growth Company
+<div align="center">
 
-RUMUZE is a high-level **software engineering and digital growth company** focused on building **serious systems for serious businesses**.
+# RUMUZE™
 
-We operate where **engineering excellence**, **business strategy**, and **digital growth** intersect.
+### Software Engineering & Digital Growth
 
-This is not a development studio.  
-This is not a marketing agency.  
+**Serious systems for serious businesses.**
 
-**This is a long-term technology partner.**
+[Website](https://www.rumuze.com) · [Open source](https://github.com/rumuze) · [Contact](https://www.rumuze.com)
 
----
-
-## Our Philosophy
-
-We believe that:
-- Software is a **business asset**, not a feature
-- Marketing without solid systems is noise
-- Systems without growth strategy are wasted potential
-
-That’s why we design, engineer, and scale **end-to-end digital ecosystems** — not isolated solutions.
+</div>
 
 ---
 
-## What We Actually Do
+## Who we are
 
-### 1. Software Engineering
+RUMUZE is a software engineering and digital growth company. We build and operate enterprise-grade platforms, and we stay with them as they scale. We work as a long-term technology partner, not a project-by-project vendor.
 
-We architect and build **enterprise-grade software systems** with a focus on longevity, performance, and scalability.
+## What we do
 
-**Capabilities:**
-- Custom Business Platforms
-- SaaS Systems (Multi-Tenant, White-Label)
-- ERP / CRM / HRM Solutions
-- Internal Enterprise Tools
-- API Platforms & Integrations
-- Legacy System Refactoring & Re-Architecture
+| | |
+|---|---|
+| **Software engineering** | Custom business platforms, SaaS, ERP / CRM / HRM, API platforms and integrations, legacy re-architecture |
+| **Digital growth** | Technical SEO, conversion funnels, analytics and attribution, performance-marketing infrastructure |
+| **Product engineering** | Ownership of a product from architecture to production operations |
 
-**Engineering Standards:**
-- Clean Architecture
-- SOLID Principles
-- Domain-Driven Thinking
-- Modular & Extensible Design
-- Security-First Approach
-- Performance as a Requirement, not an Afterthought
+## How we engineer
 
-We don’t ship “projects”.  
-We deliver **systems that survive growth**.
+- **API-first**, with clear module boundaries (modular monolith where it fits, services where it pays off)
+- **Security by default**: permission-gated access, audit trails, no secrets in code
+- **Performance as a requirement**: measured, budgeted, and regression-tested
+- **Operable from day one**: observability, safe deploys, documented runbooks
+- **Docker and cloud ready**
 
----
+## Open source
 
-### 2. Digital Growth & Marketing Engineering
+| Project | What it is |
+|---|---|
+| [**agentgram**](https://github.com/rumuze/agentgram) | Remote AI coding-agent bridge and live Telegram control room for OpenCode and terminal tools |
+| [**OpenWA**](https://github.com/rumuze/OpenWA) | Our fork of the self-hosted WhatsApp API gateway, maintained for production use |
 
-We don’t “run ads”.  
-We engineer **growth systems**.
+## Where we work
 
-**What we build:**
-- Data-Driven Digital Strategies
-- SEO & Technical SEO (at system level)
-- Conversion-Focused Funnels
-- Performance Marketing Infrastructure
-- Analytics, Tracking & Attribution
-- Brand Positioning for Scale
+Primarily the Gulf region (UAE, KSA, Qatar), then MENA and international remote partnerships, always to international engineering standards.
 
-Every marketing decision is backed by:
-- Data
-- System behavior
-- Business logic
+## Work with us
 
-No guesswork. No vanity metrics.
+If you need something correct, scalable and built to last, we should talk: **[rumuze.com](https://www.rumuze.com)**
 
 ---
 
-## Our Internal Platforms
-
-### RUMUZE Platform
-
-A proprietary **multi-tenant SaaS foundation** developed in-house to serve as:
-- A real-world engineering backbone
-- A base for future enterprise products
-- A scalable business automation core
-
-**Core modules include:**
-- Secure Meetings Management
-- Internal Communication Systems
-- Attendance & Workforce Tracking
-- Notification Engines
-- Token-Based Access Control
-- Tenant-Level Branding & Isolation
-
-Designed to expand into:
-- ERP
-- CRM
-- HRM
-- Business Automation Suites
-
----
-
-## Architecture Mindset
-
-- API-First
-- Multi-Tenant by Design
-- Smart Client Philosophy
-- Clear Separation of Concerns
-- Cloud & Docker Ready
-- Built for High-Concurrency Environments
-
-This architecture is **enterprise-ready from day one**.
-
----
-
-## Who We Work With
-
-- Enterprises & Corporate Groups
-- High-Growth Startups
-- Training & Educational Institutions
-- Service-Based Companies
-- Organizations preparing for scale
-
-If you want something “quick and cheap” —  
-**we are not a fit.**
-
-If you want something **correct, scalable, and future-proof** —  
-we are.
-
----
-
-## Market Focus
-
-Primary:
-- Gulf Region (UAE, KSA, Qatar)
-
-Secondary:
-- MENA
-- International Remote Partnerships
-
-All work follows **international engineering standards**.
-
----
-
-## Engagement Model
-
-- Long-Term Technical Partnership
-- Product Engineering as a Service
-- System Ownership Mentality
-- Strategic, not Task-Based Delivery
-
-We think like founders.  
-We operate like engineers.  
-We deliver like partners.
-
----
-
-## Intellectual Property & Licensing
-
-All systems are developed as **proprietary solutions** unless explicitly stated otherwise.
-
-Licensing, deployment, and ownership terms are defined per engagement.
-
----
-
-## Final Note
-
-RUMUZE is built for companies that understand one thing:
-
-> **Technology is not a cost.  
-> It’s a competitive advantage.**
-
----
-
-**RUMUZE™**  
-*Engineering Systems. Engineering Growth.*
+<sub>© RUMUZE. All rights reserved.</sub>
